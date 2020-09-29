@@ -1,8 +1,6 @@
 # Hello-world
 
-public class MyFirstEdit {
-   public static void main(String []args)
-   {
-      System.out.println("Hello World My First Edit"); 
-   }
-}
+try
+MY SECOND EDIT
+GitHub, Inc. is an American multinational corporation that provides hosting for software development and version control using Git
+
